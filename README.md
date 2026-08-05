@@ -14,7 +14,7 @@
 | Day | Topic | Notes | Design Challenge |
 |-----|-------|-------|------------------|
 | 1 |Introduction to python,syntax,Datatypes,ConditionalStatements,loops,|[Notes](Day1/notes.md) | [design challenge](Day1/designchallenge.py)|
-| 2 | | | |
+| 2 |function,list,tuple,dictionary,studentmanagementsystem,|[Notes](Day2/notes.md) |[design challenge](Day2/designchalleng.py)| |
 | 3 | | | |
 | 4 | | | |
 | 5 | | | |
