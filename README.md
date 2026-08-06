@@ -15,7 +15,7 @@
 |-----|-------|-------|------------------|
 | 1 |Introduction to python,syntax,Datatypes,ConditionalStatements,loops,|[Notes](Day1/notes.md) | [design challenge](Day1/designchallenge.py)|
 | 2 |function,list,tuple,dictionary,studentmanagementsystem,|[Notes](Day2/notes.md) |[design challenge](Day2/designchallenge.py)| 
-| 3 | | | |
+| 3 | programming examples oflist,tuple| [Notes](Day3/notes.md)|[degsign challenge](Day3/designchallenge.py) |
 | 4 | | | |
 | 5 | | | |
 | 6 | | | |
