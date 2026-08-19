@@ -18,7 +18,7 @@
 | 3 | programming examples oflist,tuple| [Notes](Day3/notes.md)|[degsign challenge](Day3/designchallenge.py) |[colab notebook](Day3/Copy_of_Netflix__Data_analysis_py.ipynb)|
 | 4 | Advance concepts of python(Numpy,pandas,jupiter,googlecollab|[Notes](Day4/notes.md)|[design challenge](Day4/designchallenge.py)|[colab notebook](Day4/Python_Basics.ipynb)|
 | 5 |Advance concepts of python(seborn,| [Notes](Day5/notes.md)|[design challenge](Day5/designchallenge.py)|[colab notebook](Day5/hhhf)|
-| 6 | | | |
+| 6 | |[Notes](Day6/notes.md)|[design challenge](Day6/designchallenge.py) |[colab notebook](Day6/kkkgkgkkg)|
 | 7 | | | |
 | 8 | | | |
 | 9 | | | |
