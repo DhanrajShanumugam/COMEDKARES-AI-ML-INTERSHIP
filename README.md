@@ -19,7 +19,7 @@
 | 4 | Advance concepts of python(Numpy,pandas,jupiter,googlecollab|[Notes](Day4/notes.md)|[design challenge](Day4/designchallenge.py)|[colab notebook](Day4/Python_Basics.ipynb)|
 | 5 |Advance concepts of python(seborn,| [Notes](Day5/notes.md)|[design challenge](Day5/designchallenge.py)|[colab notebook](Day5/hhhf)|
 | 6 | |[Notes](Day6/notes.md)|[design challenge](Day6/designchallenge.py) |[colab notebook](Day6/kkkgkgkkg)|
-| 7 | | | |
+| 7 | |[Notes](Day7/notes.md)|[design challenge](Day7/designchallenge.py) |[colab notebook](Day7/kdkkdkk)|
 | 8 | | | |
 | 9 | | | |
 | 10 | | | |
